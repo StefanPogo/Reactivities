@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0C1vcdPt+qpFjF2Y2Kqh4qQZnYg5hKKQ+oW9dUBJPyvJt96ftiMbdkMI9Jp4P0GpgH26y9rpy9cmwt61UKlGA==",
+  "success": true,
+  "projectFilePath": "C:\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefan.pogonaru\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\stefan.pogonaru\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
